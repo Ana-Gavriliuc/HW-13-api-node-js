@@ -1,4 +1,4 @@
-import {APIRequestContext, expect} from "@playwright/test";
+import {expect} from "@playwright/test";
 
 let baseURLWithEndpoint: string = 'http://localhost:3000/users';
 
